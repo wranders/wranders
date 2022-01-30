@@ -1,0 +1,16 @@
+![](https://img.shields.io/badge/OS-Fedora-informational?style=for-the-badge&logoWidth=20&logoColor=fff&logo=fedora)
+![](https://img.shields.io/badge/OS-Windows%2010-informational?style=for-the-badge&logoWidth=20&logoColor=fff&logo=windows)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logoWidth=20&logoColor=fff&logo=visualstudiocode)
+![](https://img.shields.io/badge/Code-Go-informational?style=for-the-badge&logoWidth=20&logoColor=fff&logo=go)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=for-the-badge&logoWidth=20&logoColor=fff&logo=typescript)
+![](https://img.shields.io/badge/Code-C%23-informational?style=for-the-badge&logoWidth=20&logoColor=fff&logo=csharp)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logoWidth=20&logoColor=fff&logo=gnubash)
+![](https://img.shields.io/badge/Shell-Powershell-informational?style=for-the-badge&logoWidth=20&logoColor=fff&logo=powershell)
+![](https://img.shields.io/badge/Tools-Podman-informational?style=for-the-badge&logoWidth=20&logoColor=fff&logo=podman)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=for-the-badge&logoWidth=20&logoColor=fff&logo=kubernetes)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=for-the-badge&logoWidth=20&logoColor=fff&logo=postgresql)
+
+[![](https://img.shields.io/badge/Linkedin-informational?style=for-the-badge&logoWidth=20&logoColor=fff&logo=linkedin)](https://www.linkedin.com/in/w-anders/)
+
+![](https://github-readme-stats.vercel.app/api?count_private=true&disable_animations=true&line_height=20&username=wranders&theme=nord&hide_title=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wranders&theme=nord&hide_title=true&layout=compact)
