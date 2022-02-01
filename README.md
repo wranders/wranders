@@ -15,6 +15,7 @@
 ![](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go)
 ![](https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=typescript)
 ![](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp)
+![](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 ![](https://img.shields.io/badge/Tools-444?style=for-the-badge)
 ![](https://img.shields.io/badge/Podman-000?style=for-the-badge&logo=podman)
