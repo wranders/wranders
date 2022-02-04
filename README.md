@@ -28,3 +28,5 @@
 [![](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visualstudiocode)](#)
 [![](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash)](#)
 [![](https://img.shields.io/badge/Powershell-000?style=for-the-badge&logo=powershell)](#)
+
+## Learning
