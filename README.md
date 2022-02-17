@@ -1,8 +1,8 @@
-[![](https://img.shields.io/badge/Linkedin-informational?style=for-the-badge&logoWidth=20&logoColor=fff&logo=linkedin)](https://www.linkedin.com/in/w-anders/)
 [![](https://img.shields.io/badge/website-informational?style=for-the-badge&logoWidth=20&logoColor=fff&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0Ij48cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+PHBhdGggc3R5bGU9ImZpbGw6d2hpdGU7IiBkPSJNMTAgMjB2LTZoNHY2aDV2LThoM0wxMiAzIDIgMTJoM3Y4eiIvPjwvc3ZnPgo=)](https://www.doubleu.codes/)
 [![](https://img.shields.io/badge/email-informational?style=for-the-badge&logoWidth=20&logoColor=fff&logo=protonmail)](mailto:w@doubleu.codes)
 [![](https://img.shields.io/badge/pgp_key-informational?style=for-the-badge&logoWidth=20&logoColor=fff&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0Ij48cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+PHBhdGggc3R5bGU9ImZpbGw6d2hpdGU7IiBkPSJNMTIuNjUgMTBDMTEuODMgNy42NyA5LjYxIDYgNyA2Yy0zLjMxIDAtNiAyLjY5LTYgNnMyLjY5IDYgNiA2YzIuNjEgMCA0LjgzLTEuNjcgNS42NS00SDE3djRoNHYtNGgydi00SDEyLjY1ek03IDE0Yy0xLjEgMC0yLS45LTItMnMuOS0yIDItMiAyIC45IDIgMi0uOSAyLTIgMnoiLz48L3N2Zz4K)](https://www.doubleu.codes/pgp_pubkey.asc)
-[![](https://img.shields.io/badge/twitch-9146FF?style=for-the-badge&logoWidth=20&logoColor=fff&logo=twitch)](https://www.twitch.tv/duubleu)
+[![](https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logoWidth=20&logoColor=fff&logo=linkedin)](https://www.linkedin.com/in/w-anders/)
+[![](https://img.shields.io/badge/twitch-9146ff?style=for-the-badge&logoWidth=20&logoColor=fff&logo=twitch)](https://www.twitch.tv/duubleu)
 [![](https://img.shields.io/badge/doUbleU%232047-5865f2?style=for-the-badge&logoWidth=20&logoColor=fff&logo=discord)](#)
 
 [![](https://github-readme-stats.vercel.app/api?count_private=true&disable_animations=true&line_height=20&username=wranders&theme=nord&hide_title=true)](#)
@@ -30,5 +30,7 @@
 [![](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visualstudiocode)](#)
 [![](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash)](#)
 [![](https://img.shields.io/badge/Powershell-000?style=for-the-badge&logo=powershell)](#)
+[![](https://img.shields.io/badge/namecheap-000?style=for-the-badge&logo=namecheap)](#)
+[![](https://img.shields.io/badge/cloudflare-000?style=for-the-badge&logo=cloudflare)](#)
 
 ## Learning
