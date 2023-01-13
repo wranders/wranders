@@ -14,6 +14,9 @@
   <img src="https://img.shields.io/badge/Fedora-000?style=for-the-badge&logo=fedora">
 </picture>
 <picture>
+  <img src="https://img.shields.io/badge/RHEL-000?style=for-the-badge&logo=redhat&logoColor=ee0000">
+</picture>
+<picture>
   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux">
 </picture>
 <picture>
