@@ -1,13 +1,13 @@
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=wranders&show_icons=true&theme=dark&disable_animations=true&line_height=20&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=wranders&show_icons=true&theme=dark&disable_animations=true&line_height=20&hide_title=true&hide_rank=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=wranders&show_icons=true&disable_animations=true&line_height=20&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=wranders&show_icons=true&disable_animations=true&line_height=20&hide_title=true&hide_rank=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=wranders&show_icons=true&disable_animations=true&line_height=20&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wranders&show_icons=true&disable_animations=true&line_height=20&hide_title=true&hide_rank=true" />
 </picture>
 
 <picture>
