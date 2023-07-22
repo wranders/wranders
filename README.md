@@ -1,5 +1,28 @@
-[![](https://github-readme-stats.vercel.app/api?count_private=true&disable_animations=true&line_height=20&username=wranders&theme=nord&hide_title=true)](#)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=wranders&theme=nord&hide_title=true&layout=compact)](#)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=wranders&show_icons=true&theme=dark&disable_animations=true&line_height=20&hide_title=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=wranders&show_icons=true&disable_animations=true&line_height=20&hide_title=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=wranders&show_icons=true&disable_animations=true&line_height=20&hide_title=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wranders&theme=dark&hide_title=true&layout=compact&disable_animations=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wranders&hide_title=true&layout=compact&disable_animations=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wranders&hide_title=true&layout=compact&disable_animations=true" />
+</picture>
+
+---
 
 [![](https://img.shields.io/badge/OS-444?style=for-the-badge)](#)
 [![](https://img.shields.io/badge/Fedora-000?style=for-the-badge&logo=fedora)](#)
